@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My portfolio'
+languageCode = 'ru-ru'
+title = 'My portfolio || Портфолио'
 theme = 'hugo-theme-learn'
