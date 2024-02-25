@@ -1,10 +1,26 @@
 baseURL = 'https://hbjnmcd.github.io/portfolio/'
 languageCode = 'ru-ru'
-title = 'My portfolio || Портфолио'
+title = 'My portfolio'
 theme = 'hugo-theme-learn'
 
+[context.production.environment]
+  HUGO_BASEURL = "https://learn.netlify.app/"
+
+[params]
+  titleSeparator = "|"
+  # Позволяет видеть галочки у просмотренных страниц
+  showVisitedLinks = true
+  #Скрывает поясняющие надписи
+  disableShortcutsTitle = true
+
+  disableLandingPageButton = true
+  landingPageURL = "/"
+  landingPageName = "<i class='fas fa-home'></i> Home"
+
+  themeVariant = "green"
+
  [[menu.shortcuts]] 
-    name = "<i class='fab fa-github'></i> Мой Github "
+    name = "<i class='fab fa-github'></i> My Github "
     identifier = "ds"
     url = "https://github.com/hbjnmcd"
     weight = 10
@@ -14,3 +30,4 @@ theme = 'hugo-theme-learn'
     identifier = "hugodoc"
     url = "https://gohugo.io/"
     weight = 20
+
