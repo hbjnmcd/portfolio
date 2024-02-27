@@ -9,4 +9,4 @@ My name is Natalia Nechaeva, and you have come to my portfolio site.
 
 In the menu on the left you can see a list of subjects, works on which are presented on this site.
 
-![Изображение](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png "Логотип Markdown")
+![Изображение](https://media.tenor.com/HHPMFMlwwMIAAAAi/congratulations-congrats.gif "Hiii")
