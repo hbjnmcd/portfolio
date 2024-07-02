@@ -20,5 +20,5 @@ All the works are collected here
 [Without framework](https://replit.com/@hbjnmcd/kp-28-03-my-server-1#main.py),
 [Example in PHP](https://replit.com/@hbjnmcd/web11403#index.php).
 5. An application that receives an image and outputs its dimensions, and can also generate an image itself [LR 5+6](https://replit.com/@hbjnmcd/kplr7#main.py "Check /size3json and /makeimage")
-6. Creating a Telegram-bot with Yandex.Cloud Functions - name of the bot is @hbjnmcd_bot - check it in Telegram 
+6. Creating a Telegram-bot with Yandex.Cloud Functions - name of the bot is @hbjnmcd_bot - check it in Telegram or check it [here](https://github.com/hbjnmcd/portfolio/blob/master/Нечаева%2C%20создание%20тг%20бота.pdf)
 
